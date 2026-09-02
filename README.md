@@ -2,7 +2,7 @@
 
 <!-- SEO Keywords: how to fish trainer, how to fish mods, how to fish mod menu, how to fish game trainer, how to fish tools, how to fish unlimited resources, how to fish free download, how to fish enhancements, how to fish gameplay modifier, fishing game mods, how to fish utility, how to fish helper -->
 
-<img width="100%" alt="How to Fish Trainer Banner" src="https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_BANNER_ID" />
+<img width="100%" alt="How to Fish Trainer Banner" src="https://github.com/facebrawlerflourish/HowToFish-Trainer/blob/main/screenshots/banner.jpg" />
 
 # 🎣 How to Fish — Trainer & Mods 🐟
 
